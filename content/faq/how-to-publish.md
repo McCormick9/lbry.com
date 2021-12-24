@@ -26,9 +26,9 @@ If you don't have LBRY yet, download it [here](/get). You can also publish files
 4. Next, type the title for your content. 
 5. After entering the title, click browse to browse the content you want to publish.
 
-6. On your local machine, select the content you wish to upload to Odysee. For video content, Odysee works best with MP4 files in H264/AAC format which support proper streaming (see [video publishing guide for details](/faq/video-publishing-guide)). Besides videos, other popular formats supported are MP3s, text documents like markdown (md)/HTML, PDF, CSV, and comic books (cbr, cbz). In the future, the in app player may support additional formats.
+6. On your local machine, select the content you wish to upload to LBRY. For video content, LBRY works best with MP4 files in H264/AAC format which support proper streaming (see [video publishing guide for details](/faq/video-publishing-guide)). Besides videos, other popular formats supported are MP3s, text documents like markdown (md)/HTML, PDF, CSV, and comic books (cbr, cbz). In the future, the in app player may support additional formats.
 
-Other file types can also be uploaded, but won't be streamable via Odysee directly. They can be opened externally for viewing on the Desktop/Android apps.
+Other file types can also be uploaded, but won't be streamable via LBRY directly. They can be opened externally for viewing on the Desktop/Android apps.
 
 7. Enter a `Description` for your content.
 
@@ -53,7 +53,7 @@ The file will process in the background and will be added to the LBRY Blockchain
 
 ## How do I create a channel?
 
-1. Open Odysee.com
+1. Open the LBRY app.
 
 2. Click on the cloud with an arrow pointing into it in the top right next to the search bar. 
 
@@ -81,9 +81,9 @@ First, you need to access your channel by clicking on the channel art or the ast
 
 ## How do I delete my content and reclaim my deposit?
 
-1. Click on the channel /astronaut logo on the upper right corner and select Uploads
+1. Click on the channel /astronaut logo on the upper right corner and select `Uploads`.
 
-2. This should display all uploads. Click on the content you want to remove from Odysee
+2. This should display all uploads. Click on the content you want to remove from LBRY.
 
 3. Click on the `Delete` icon.
 ![delete content](https://spee.ch/b/5eb8de5a8ce56488.png)
